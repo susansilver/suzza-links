@@ -4,7 +4,7 @@
     --bgColor: #f1f5f9;
     --bgColor2: #090a0f;
     --accentColor: #1565C0;
-    --font: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    --font: 'Inter', Arial, "Helvetica Neue", Helvetica, sans-serif;
     --delay: .3s;
 }
 
