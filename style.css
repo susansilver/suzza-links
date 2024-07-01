@@ -1,9 +1,9 @@
 
 
 :root {
-    --bgColor: #f1f5f9;
+    --bgColor: #090a0f;
     --bgColor2: #090a0f;
-    --accentColor: #1565C0;
+    --accentColor: #64B5F6;
     --font:  Arial, "Helvetica Neue", Helvetica, sans-serif;
     --delay: .3s;
 }
@@ -243,4 +243,10 @@ body {
 .popup-close:active {
     background-color: var(--accentColor);
     color: var(--bgColor);
+}
+
+hr {
+    height: 1px;
+    background-color: #0D47A1;
+    border: none;
 }
